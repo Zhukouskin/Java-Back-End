@@ -3,4 +3,3 @@ class HelloJava{
         System.out.println("Hello JAVA!");
     }
 }
-
